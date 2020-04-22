@@ -28,6 +28,10 @@ public class test {
 
         String unique = Uniques(str);
         System.out.println(unique);
+        System.out.println(unique);
+        System.out.println(unique);
+        System.out.println(unique);
+
     }
 
     public static String Uniques (String str){
