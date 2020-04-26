@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="029a8b52-9c05-421b-a722-f055f5e606a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sh.exe.stackdump" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day26_Method_Overloading/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day26_Method_Overloading/test.java" afterDir="false" />
     </list>
@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,23 +26,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/benmousa/Spring2020B17_Java.git" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1ZCLOXmGhYxImCKvxRUn95rUOOT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="F:/عم/03-15/HelloWorld.java" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Resurses" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WormUpTask_01">
+  <component name="RunManager" selected="Application.Arrays_Sorting_02">
     <configuration name="Arrays_Sorting_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day20_ArraysContinue.Arrays_Sorting_02" />
       <module name="Spring2020B17_Java" />
@@ -107,7 +121,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WormUpTask_01" />
         <item itemvalue="Application.tr" />
         <item itemvalue="Application.Arrays_Sorting_02" />
         <item itemvalue="Application.Methods_Overloading_04" />
@@ -128,6 +141,22 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="275" y="24" key="#Notifications" timestamp="1587245679016">
       <screen x="0" y="0" width="1366" height="728" />
@@ -145,10 +174,15 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1600.-132.1600.900@0.0.1366.728" timestamp="1587237231161" />
-    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1584338161907">
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1587594405405">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728/-1600.-132.1600.900@0.0.1366.728" timestamp="1587594405405" />
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1600.900@0.0.1366.728" timestamp="1584338161907" />
+    <state x="552" y="261" key="Github.ShareDialog" timestamp="1587596150186">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="552" y="261" key="Github.ShareDialog/0.0.1366.728/-1600.-132.1600.900@0.0.1366.728" timestamp="1587596150186" />
     <state width="1322" height="229" key="GridCell.Tab.0.bottom" timestamp="1587593348224">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -197,6 +231,10 @@
     </state>
     <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728/-1600.-132.1600.900@0.0.1366.728" timestamp="1587065593338" />
     <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1600.900@0.0.1366.728" timestamp="1586696067979" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1587594031902">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728/-1600.-132.1600.900@0.0.1366.728" timestamp="1587594031902" />
     <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1584365665091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -210,11 +248,11 @@
     </state>
     <state x="339" y="157" key="run.anything.popup/0.0.1366.728/-1600.-132.1600.900@0.0.1366.728" timestamp="1587079811503" />
     <state x="339" y="157" key="run.anything.popup/0.0.1366.728/1366.0.1600.900@0.0.1366.728" timestamp="1585578235123" />
-    <state x="336" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587261276717">
+    <state x="336" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587596231655">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="336" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1280.0.1280.720@0.0.1366.728" timestamp="1587139098679" />
-    <state x="336" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1600.-132.1600.900@0.0.1366.728" timestamp="1587261276717" />
+    <state x="336" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1600.-132.1600.900@0.0.1366.728" timestamp="1587596231655" />
     <state x="336" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1600.900@0.0.1366.728" timestamp="1586746396741" />
     <state x="336" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586920587066" />
   </component>
