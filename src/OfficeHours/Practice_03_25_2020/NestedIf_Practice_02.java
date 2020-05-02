@@ -1,4 +1,4 @@
-package OfficeHours.Paractice_03_25_2020;
+package OfficeHours.Practice_03_25_2020;
 
 public class NestedIf_Practice_02 {
     public static void main(String[] args) {

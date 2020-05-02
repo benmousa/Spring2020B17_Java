@@ -14,7 +14,7 @@ public class ArrayList_Methods {
 
         list.set(3,9);
 
-        list.remove(2);
+       list.remove(2);
 
         System.out.println(list);
     }

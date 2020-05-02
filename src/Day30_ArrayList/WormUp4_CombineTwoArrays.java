@@ -2,11 +2,11 @@ package Day30_ArrayList;
 
 import java.util.ArrayList;
 
-public class WormUp5_CombineTwoArrays {
+public class WormUp4_CombineTwoArrays {
     public static void main(String[] args) {
 
         /*
-          5. write a program that can combine two String arrays into one arrayList
+          4. write a program that can combine two String arrays into one arrayList
     		ex:
     			arr1 = {"A", "B", "C"};
     			arr2 = {"D", "E", "F", "G"};

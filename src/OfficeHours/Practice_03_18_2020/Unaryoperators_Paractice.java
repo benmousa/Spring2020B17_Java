@@ -1,4 +1,4 @@
-package OfficeHours.Paractice_03_18_2020;
+package OfficeHours.Practice_03_18_2020;
 
 public class Unaryoperators_Paractice {
 
