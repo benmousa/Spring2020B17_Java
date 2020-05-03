@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class WormUps_02_AnotherSolution {
+public class WormUps_02_Duplicate_02 {
     public static void main(String[] args) {
 
         String[] arr = {"A", "B", "A", "C", "D",  "D"};

@@ -3,7 +3,7 @@ package Day32_Predicate_SimpleLambda;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class WormUps_02 {
+public class WormUps_02_Duplicate_01 {
     public static void main(String[] args) {
 
         /*
