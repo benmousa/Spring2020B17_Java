@@ -8,7 +8,6 @@ public class _114_Arrays_find_non_duplicate_Loop {
 
         for ( int z = 0; z <= nums.length-1; z++){
             int j = 0;
-            int sum =0 ;
             for ( int i = 0; i <= nums.length-1; i++){
                 if ( nums[i] == nums[z]){
                     j++;
