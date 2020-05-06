@@ -1,9 +1,8 @@
-package Day33_CustomClass;
+package Day33_CustomClass_Info;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.function.Predicate;
 
 public class WormUp_01_Unique {
     public static void main(String[] args) {
@@ -28,15 +27,5 @@ public class WormUp_01_Unique {
         list.removeIf(p -> Collections.frequency(list, p) > 1);
 
         System.out.println(list);
-
-
-
-
-
-
-
-
-
-
     }
 }

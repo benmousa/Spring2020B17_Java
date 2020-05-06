@@ -1,8 +1,6 @@
-package Day33_CustomClass;
+package Day33_CustomClass_Info;
 
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.function.Predicate;
 
 public class WormUp_03_Extract_01 {
     public static void main(String[] args) {

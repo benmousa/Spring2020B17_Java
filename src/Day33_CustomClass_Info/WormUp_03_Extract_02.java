@@ -1,4 +1,4 @@
-package Day33_CustomClass;
+package Day33_CustomClass_Info;
 
 import java.util.ArrayList;
 
