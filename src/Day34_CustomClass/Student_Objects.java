@@ -1,0 +1,45 @@
+package Day34_CustomClass;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+public class Student_Objects {
+    public static void main(String[] args) {
+
+        Student student1 = new Student();
+        student1.setStudentInfo("Adam", "Libyan", 34, 3.5, 'M', false);
+
+        Student student2 = new Student();
+        student2.setStudentInfo("Mike", "German", 30, 3.0, 'M', false);
+
+        Student student3 = new Student();
+        student3.setStudentInfo("Johnny Guitar", "US", 40, 2.5, 'M', false);
+
+        Student student4 = new Student();
+        student4.setStudentInfo("Anna", "Ukrainian", 33, 3.9, 'F', true);
+
+        Student[] students = {student1, student2, student3, student4};
+
+        ArrayList<Student> canGraduate = new ArrayList<>(Arrays.asList(students));
+        canGraduate.removeIf(p -> p.gpa <= 3);
+
+        System.out.println(canGraduate.size());
+
+        for (int i = 0; i <= canGraduate.size() - 1; i++) {
+            Student each = canGraduate.get(i);
+            System.out.println(each.name + " can graduate");
+
+            System.out.println("## ## ## ## ## ## ## ## ## ## ## ");
+
+            ArrayList<Student> cantGraduate = new ArrayList<>(Arrays.asList(students));
+            cantGraduate.removeIf(p -> p.gpa > 3);
+
+            System.out.println(cantGraduate.size());
+
+            for (Student each2 : cantGraduate) {
+                System.out.println(each2.name + " cannot graduate");
+                ;
+            }
+        }
+
+    }}

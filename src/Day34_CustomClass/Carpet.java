@@ -1,4 +1,4 @@
-package Day33_CustomClass_Info;
+package Day34_CustomClass;
 
 public class Carpet {
     /*
@@ -19,21 +19,26 @@ public class Carpet {
     double unitPrize;
     boolean isPersian;
 
-    public void customOrder (double carpetWidth, double carpetLength, double carpetPrise, boolean IsPersian){
-        width = carpetWidth;
-        length = carpetLength;
-        unitPrize = carpetPrise;
-        isPersian = IsPersian;
-        if (IsPersian = true) {
-            Prise = (width * length) * unitPrize + 200;
+
+    public double calcCost (){
+        double total = (width + length) * unitPrize;
+        if(isPersian) {
+            return  total + 200;
         }
-        if (IsPersian = false) {
-            Prise = (width * length) * unitPrize;
+        else {
+            return  total;
         }
     }
 
+    public void customOrder (double carpetWidth, double carpetLength, double carpetUnitPrise, boolean capetPersian){
+        width = carpetWidth;
+        length = carpetLength;
+        unitPrize = carpetUnitPrise;
+        isPersian = capetPersian;
+    }
+
     public String toString (){
-        String result = "Your Carpet width is: "+width+", and the length is: "+length+", the total prise is: $"+Prise;
+        String result = "Width is: "+width+"\nLength is: "+length+"\nUnitPrice is: $"+unitPrize+"\nTotal cost is $"+calcCost();
         return result;
     }
 }

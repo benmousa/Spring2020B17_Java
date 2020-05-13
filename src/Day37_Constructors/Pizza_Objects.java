@@ -1,4 +1,6 @@
-package Day33_CustomClass_Info;
+package Day37_Constructors;
+
+import Day37_Constructors.Pizza;
 
 public class Pizza_Objects {
     public static void main(String[] args) {

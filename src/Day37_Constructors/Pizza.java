@@ -1,4 +1,4 @@
-package Day33_CustomClass_Info;
+package Day37_Constructors;
 
 public class Pizza {
     /*
